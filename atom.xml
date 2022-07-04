@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>洛栀の小窝</title>
+  <title>暴风雨工作室</title>
   <icon>https://bfykk.tk/icon.png</icon>
   <subtitle>bfykk.tk</subtitle>
   <link href="https://bfykk.tk/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://bfykk.tk/</id>
   
   <author>
-    <name>洛栀</name>
+    <name>暴风雨</name>
     
   </author>
   
